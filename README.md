@@ -10,7 +10,7 @@
 
 ## 在线阅读
 
-打开 [index.html](index.html) 即可阅读，或访问 GitHub Pages 渲染版本（见仓库右侧 Pages 部署状态 / Environments）。
+打开 [index.html](index.html) 即可阅读，或访问 [GitHub Pages 渲染版本](https://ljy2201323125.github.io/edu/)。
 
 报告为单文件 HTML，无构建步骤；字体通过 Google Fonts 加载，图表为原生 HTML/CSS/SVG，支持明暗主题切换与悬停查看数据口径。
 
